@@ -1,8 +1,5 @@
  # Analisis Dataset Coffee Shop ☕
-
-
-# File Ipynb colab.google
-[Uploading ydata_coffeshop.ipynb…]()
+---
 
 # Pendahuluan
 
