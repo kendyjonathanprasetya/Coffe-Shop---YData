@@ -49,6 +49,8 @@ Membuat laporan kondisi awal dataset, untuk mengetahui missing values, tipe data
 profile_before = ProfileReport(df, title="Coffee Shop Profiling - Sebelum Cleaning", explorative=True)
 profile_before.to_notebook_iframe()
 profile_before.to_file("coffee_shop_before_cleaning.html")
+-----------------------------------------------------------------
+
 <img width="1416" height="606" alt="image" src="https://github.com/user-attachments/assets/299ad869-1d26-4e73-890b-c078e7c80c34" />
 <img width="1284" height="400" alt="image" src="https://github.com/user-attachments/assets/30c2562a-f5a7-45f6-8bdf-a7f7a7bb1a40" />
 <img width="1282" height="399" alt="image" src="https://github.com/user-attachments/assets/eb82b1ad-5e3a-42f4-924e-455bae7324f3" />
