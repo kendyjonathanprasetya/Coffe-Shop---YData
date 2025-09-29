@@ -81,6 +81,11 @@ for col in df.columns:
     else:
         df[col] = df[col].fillna(df[col].mode()[0])
 
+---
+
+<img width="600" height="384" alt="image" src="https://github.com/user-attachments/assets/08db6557-c9c9-4bda-b257-2fb0f7ca91f5" />
+
+
 # 5. Profiling Setelah Cleaning
 
 Membuat laporan kondisi dataset setelah diperbaiki, sehingga bisa dibandingkan dengan versi awal.
