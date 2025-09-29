@@ -1,7 +1,5 @@
  # Analisis Dataset Coffee Shop ☕
 
-# File Raw CSV
-[Uploading data coffe shop CSV.csv…]()
 
 # File Ipynb colab.google
 [Uploading ydata_coffeshop.ipynb…]()
